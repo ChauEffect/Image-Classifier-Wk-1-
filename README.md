@@ -7,6 +7,6 @@ INSTRUCTIONS:
 
 2) Open Index.html 
 
-3) Train the 3 classes using 10 to 20 passes while repeatedly pressing each button until probability approximates 0.5 to 1.0
+3) Train the 3 classes using 10 to 20 passes while repeatedly pressing each button until probability approximates 0.6 to 1.0
 
 4) Test the Image Classifier
